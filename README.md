@@ -10,3 +10,10 @@ Sales Data: The primary dataset used for this analysis is the "sales.csv" file,c
 ### Tools
 - Excel - Data Cleaning
 - SQL Server - Data Analysis
+
+### Data Cleaning/Preparation
+In the initial data preparation stage, I performed the following tasks:
+- Data loading and inspection.
+- Removing duplicates.
+- Handling missing values.
+- Data cleaning and formatting.
