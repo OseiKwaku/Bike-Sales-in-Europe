@@ -21,5 +21,5 @@ In the initial data preparation stage, I performed the following tasks:
 ### Results & Findings
 These are just a few results from the SQL project:
 - The year 2015 was the where the most profit was accumulated with a total of 15096 in profit.
-- Bikes was the product category from which most profit was made from.
+- Bikes was the product category from which most profit was made.
 - The age group wutn most orders was the adults with a total of 672417 orders.
